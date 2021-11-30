@@ -1,0 +1,13 @@
+
+"""
+Created on Tue Nov 30 00:46:54 2021
+
+@author: papattaradaapithanangsiri
+"""
+
+{
+    "nodes" : ["http://127.0.0.1:5002/", 
+                "http://127.0.0.1:5003/", 
+                "http://127.0.0.1:5004/"]
+}
+
